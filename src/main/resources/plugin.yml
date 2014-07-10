@@ -1,0 +1,3 @@
+name: DeminBell-t2
+main: com.tenjava.entries.DeminBell.t2.TenJava
+version: '${project.version}'
